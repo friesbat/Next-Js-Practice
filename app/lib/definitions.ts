@@ -8,7 +8,6 @@ export type User = {
   email: string;
   password: string;
 };
-
 export type Customer = {
   id: string;
   name: string;
